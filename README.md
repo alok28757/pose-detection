@@ -1,6 +1,6 @@
 #Pose Detection
 
-Hari balaji RA2211003012061)<br>
+Hari balaji RA2211003012060)<br>
 Alok Raj(RA2211003012061)<br>
 Hari ventaka sai kartik(RA2211003012064)<br>
 Pathan Muhriz Khan(RA2211003012069)<br>

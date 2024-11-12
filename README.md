@@ -1,9 +1,9 @@
 #Pose Detection
 
-Hari balaji RA2211003012061)
-Alok Raj(RA2211003012061)
-Hari ventaka sai kartik(RA2211003012064)
-Pathan Muhriz Khan(RA2211003012069)
+Hari balaji RA2211003012061)<br>
+Alok Raj(RA2211003012061)<br>
+Hari ventaka sai kartik(RA2211003012064)<br>
+Pathan Muhriz Khan(RA2211003012069)<br>
 
 Pose estimation refers to computer vision techniques that detect human figures
 in images and video, so that one could determine, for example, where someone’s

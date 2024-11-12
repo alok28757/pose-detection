@@ -1,4 +1,9 @@
-# Coral PoseNet
+#Pose Detection
+
+Hari balaji RA2211003012061)
+Alok Raj(RA2211003012061)
+Hari ventaka sai kartik(RA2211003012064)
+Pathan Muhriz Khan(RA2211003012069)
 
 Pose estimation refers to computer vision techniques that detect human figures
 in images and video, so that one could determine, for example, where someone’s
